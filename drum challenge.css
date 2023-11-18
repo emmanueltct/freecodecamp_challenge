@@ -1,0 +1,16 @@
+#drum-machine {
+  margin: 0 30%;
+  align-items: center;
+  justify-content: center;
+}
+#display1 {
+  display: grid;
+  row-gap: 4px;
+  grid-template-columns: auto auto auto;
+  width: 165px;
+}
+.drum-pad {
+  width: 50px;
+  padding: 20%;
+  height: 50px;
+}
